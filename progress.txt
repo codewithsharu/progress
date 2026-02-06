@@ -1,0 +1,63 @@
+Hi Jharna,
+
+I hope you are doing well. Please find my **weekly internship progress report** for the period **2nd February 2026 to 6th February 2026**.
+
+---
+
+## **Key Learnings**
+
+* Learned how to write **clear and professional emails**, focusing on proper tone, subject lines, and etiquette.
+* Improved understanding of **workplace communication** and timely follow-ups.
+* Gained basic knowledge of **Git, GitHub, and secure coding practices**.
+* Got a clear idea of how the **DevOps process works end-to-end** in the company.
+
+---
+
+## **Daily Progress**
+
+### **2nd February 2026**
+
+* Completed mandatory **LinkedIn Learning** and **Sexual Harassment Prevention** courses.
+* Updated required details on the **Kroll** website.
+* Finished **Mimecast security training**.
+
+### **3rd February 2026**
+
+* Connected with the team and shared contact details.
+* Learned **professional email writing** as explained by you, including structure and tone.
+* Explored **Git and GitHub basics** such as commits, push, pull, remotes, and collaboration.
+* Learned about **SSH connections**, handling environment secrets, and **secret scanning**.
+
+### **4th February 2026**
+
+* Attended a **catch-up meeting with Suveka**, where we discussed our assigned mentors, managers, and individual roles.
+* Talked through minor issues and clarifications related to responsibilities and expectations.
+* Interacted with senior team members to understand the **DevOps workflow** used in real projects.
+* Learned how the process moves from **code commit to Azure Repos**, followed by build and test pipelines.
+* Understood how applications are deployed securely to cloud servers or through containers.
+* Gained clear visibility on how DevOps is practiced within the company.
+
+### **5th February 2026**
+
+* Explored **Azure DevOps tools** used by the team:
+
+  * Azure Boards for task tracking
+  * Azure Repos for code management
+  * Azure Pipelines for CI/CD
+  * Test Plans for testing
+  * Artifacts for package management
+* Understood the purpose of each tool and why they are used.
+
+### **6th February 2026**
+
+* Created and used an **Azure free account** on my personal laptop.
+* Practiced using Azure DevOps to understand **team collaboration and issue tracking**.
+* Watched tutorials to learn each Azure DevOps module in more detail.
+
+---
+
+Thank you for your guidance and support throughout the week. This week helped me strengthen my communication skills and gain better clarity on Git, DevOps, and Azure tools.
+
+Best regards,
+**Shareen Dandasi**
+Intern
